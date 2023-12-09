@@ -1,6 +1,6 @@
 # 0x00. AirBnB clone - The console
 
-## 0x00.Table of contents
+## 0x00.Table of content
 
 * [0x01 Introduction](#0x01-Introduction)
 * [0x02 Environment](#0x02-Environment)
