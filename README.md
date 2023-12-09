@@ -243,5 +243,3 @@ e45ddda9-eb80-4858-99a9-226d4f08a629
 (hbnb) create City
 e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb) count City
-2
-(hbnb)
